@@ -5,6 +5,21 @@ Detta projekt är en personlig portfolio byggd som en del av min utbildning inom
 ## 🚀 Översikt
 Webbplatsen fungerar som ett digitalt visitkort och portfolio för att visa upp mina färdigheter inom webbdesign, grafisk formgivning och innehållsskapande.
 
+## 🖼 Skärmklipp på projektet
+Här är några bilder på den färdiga webbplatsen:
+
+### Startsida
+![Startsida](img/homepage.png)
+
+### Portfolio
+![Portfolio](img/portfoliopage.png)
+
+### About me
+![Aboutme](img/aboutmepage.png)
+
+### Kontakt
+![Kontakt](img/contactpage.png)
+
 * **Roll:** Web Designer & CMS Administratör
 * **Plattform:** WordPress
 * **Status:** Slutfört skolprojekt
